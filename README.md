@@ -5,7 +5,7 @@ cross compile used
 
 execution sequence
 ----
-make (in linux terminel)
+make (in linux terminal)
 -->
 
 insmod sa_driver.c (in rasberry pi3)
