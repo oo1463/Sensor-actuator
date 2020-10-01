@@ -1,6 +1,5 @@
 # Sensor-actuator
 Laspberry pi 3 / Linux-kernel device driver programming
-cross compile used
 
 
 execution sequence
