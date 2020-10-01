@@ -1,5 +1,5 @@
 # Sensor-actuator
-Laspberry pi 3 / Linux-kernel device driver programming
+Raspberry pi 3 / Linux-kernel device driver programming
 
 
 execution sequence
