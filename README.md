@@ -5,7 +5,7 @@ cross compile used
 
 execution sequence
 ----
-make (in linux terminal)
+make (cross compile drivers in linux terminal to raspberry bi)
 
 -->
 
