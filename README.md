@@ -4,7 +4,7 @@ Laspberry pi 3 / Linux-kernel device driver programming
 
 execution sequence
 ----
-make (cross compile drivers in linux terminal to raspberry bi)
+make (cross compile drivers to raspberry bi / in linux terminal)
 
 -->
 
